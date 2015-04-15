@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: sdboard.GBR   14/04/2015  23:14:02
+Gerber File Extension Report For: sdboard.GBR   14/04/2015  23:44:31
 ------------------------------------------------------------------------------------------
 
 
@@ -8,7 +8,6 @@ Layer Extension     Layer Description
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
-.GTO                Top Overlay                             
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GKO                Keep-Out Layer                          

@@ -1,12 +1,17 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [sdcard.PrjPcb]
-   Generated File[sdboard.TXT]
-   Generated File[sdboard.LDP]
-   Generated File[sdboard.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [sdcard.PrjPcb]
+   Generated File[sdboard.GTL]
+   Generated File[sdboard.GBL]
+   Generated File[sdboard.GTS]
+   Generated File[sdboard.GBS]
+   Generated File[sdboard.GKO]
+   Generated File[sdboard.RUL]
+   Generated File[sdboard.EXTREP]
+   Generated File[sdboard.REP]
 
 
-Files Generated   : 3
+Files Generated   : 8
 Documents Printed : 0
 
-Finished Output Generation At 23:14:17 On 14/04/2015
+Finished Output Generation At 23:44:31 On 14/04/2015
