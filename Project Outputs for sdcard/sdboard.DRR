@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: sdboard.PcbDoc   14/04/2015  23:14:17
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : sdboard.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        39.37mil (1mm)           Round          17               2.51 Inch (63.83 mm)
+---------------------------------------------------------------------------
+Totals                                            17               2.51 Inch (63.83 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

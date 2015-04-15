@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [sdcard.PrjPcb]
+   Generated File[sdboard.TXT]
+   Generated File[sdboard.LDP]
+   Generated File[sdboard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:14:17 On 14/04/2015
